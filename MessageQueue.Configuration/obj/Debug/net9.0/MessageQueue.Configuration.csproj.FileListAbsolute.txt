@@ -1,0 +1,5 @@
+C:\Users\vcvai\source\repos\EventDrivenPayments\MessageQueue.Configuration\obj\Debug\net9.0\MessageQueue.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vcvai\source\repos\EventDrivenPayments\MessageQueue.Configuration\obj\Debug\net9.0\MessageQueue.Configuration.AssemblyInfoInputs.cache
+C:\Users\vcvai\source\repos\EventDrivenPayments\MessageQueue.Configuration\obj\Debug\net9.0\MessageQueue.Configuration.AssemblyInfo.cs
+C:\Users\vcvai\source\repos\EventDrivenPayments\MessageQueue.Configuration\obj\Debug\net9.0\MessageQueue.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\vcvai\source\repos\EventDrivenPayments\MessageQueue.Configuration\obj\Debug\net9.0\MessageQueue.Configuration.csproj.AssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\vcvai\source\repos\EventDrivenPayments\MessageQueue.Configuration\bin\Debug\net8.0\MessageQueue.Configuration.deps.json
+C:\Users\vcvai\source\repos\EventDrivenPayments\MessageQueue.Configuration\bin\Debug\net8.0\MessageQueue.Configuration.dll
+C:\Users\vcvai\source\repos\EventDrivenPayments\MessageQueue.Configuration\bin\Debug\net8.0\MessageQueue.Configuration.pdb
+C:\Users\vcvai\source\repos\EventDrivenPayments\MessageQueue.Configuration\obj\Debug\net8.0\MessageQueue.Configuration.csproj.AssemblyReference.cache
+C:\Users\vcvai\source\repos\EventDrivenPayments\MessageQueue.Configuration\obj\Debug\net8.0\MessageQueue.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vcvai\source\repos\EventDrivenPayments\MessageQueue.Configuration\obj\Debug\net8.0\MessageQueue.Configuration.AssemblyInfoInputs.cache
+C:\Users\vcvai\source\repos\EventDrivenPayments\MessageQueue.Configuration\obj\Debug\net8.0\MessageQueue.Configuration.AssemblyInfo.cs
+C:\Users\vcvai\source\repos\EventDrivenPayments\MessageQueue.Configuration\obj\Debug\net8.0\MessageQueue.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\vcvai\source\repos\EventDrivenPayments\MessageQueue.Configuration\obj\Debug\net8.0\MessageQueue.Configuration.dll
+C:\Users\vcvai\source\repos\EventDrivenPayments\MessageQueue.Configuration\obj\Debug\net8.0\refint\MessageQueue.Configuration.dll
+C:\Users\vcvai\source\repos\EventDrivenPayments\MessageQueue.Configuration\obj\Debug\net8.0\MessageQueue.Configuration.pdb
+C:\Users\vcvai\source\repos\EventDrivenPayments\MessageQueue.Configuration\obj\Debug\net8.0\ref\MessageQueue.Configuration.dll

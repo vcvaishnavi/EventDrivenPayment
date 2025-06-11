@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Payment.API.Controllers.PaymentController",
+    "Method": "InitiatePayment",
+    "RelativePath": "Payment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

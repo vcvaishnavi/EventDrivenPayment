@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF9F3D6-B08A-6A51-0DAD-69EDE0CDC216}|Notification.Service\\Notification.Service.csproj|c:\\users\\vcvai\\source\\repos\\eventdrivenpayments\\notification.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF9F3D6-B08A-6A51-0DAD-69EDE0CDC216}|Notification.Service\\Notification.Service.csproj|solutionrelative:notification.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EAA9AD-99BF-4A4B-99F8-8F2464CB380A}|MessageQueue.Configuration\\MessageQueue.Configuration.csproj|c:\\users\\vcvai\\source\\repos\\eventdrivenpayments\\messagequeue.configuration\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EAA9AD-99BF-4A4B-99F8-8F2464CB380A}|MessageQueue.Configuration\\MessageQueue.Configuration.csproj|solutionrelative:messagequeue.configuration\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31AE74B-3FDD-7AF6-E079-6F4CDD6C49D2}|Payment.Processor\\Payment.Processor.csproj|c:\\users\\vcvai\\source\\repos\\eventdrivenpayments\\payment.processor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31AE74B-3FDD-7AF6-E079-6F4CDD6C49D2}|Payment.Processor\\Payment.Processor.csproj|solutionrelative:payment.processor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EAA9AD-99BF-4A4B-99F8-8F2464CB380A}|MessageQueue.Configuration\\MessageQueue.Configuration.csproj|c:\\users\\vcvai\\source\\repos\\eventdrivenpayments\\messagequeue.configuration\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EAA9AD-99BF-4A4B-99F8-8F2464CB380A}|MessageQueue.Configuration\\MessageQueue.Configuration.csproj|solutionrelative:messagequeue.configuration\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31AE74B-3FDD-7AF6-E079-6F4CDD6C49D2}|Payment.Processor\\Payment.Processor.csproj|c:\\users\\vcvai\\source\\repos\\eventdrivenpayments\\payment.processor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A31AE74B-3FDD-7AF6-E079-6F4CDD6C49D2}|Payment.Processor\\Payment.Processor.csproj|solutionrelative:payment.processor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C307AA-CFF9-0765-2149-3B6BAD2461B5}|Payment.API\\Payment.API.csproj|c:\\users\\vcvai\\source\\repos\\eventdrivenpayments\\payment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34C307AA-CFF9-0765-2149-3B6BAD2461B5}|Payment.API\\Payment.API.csproj|solutionrelative:payment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C307AA-CFF9-0765-2149-3B6BAD2461B5}|Payment.API\\Payment.API.csproj|c:\\users\\vcvai\\source\\repos\\eventdrivenpayments\\payment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C307AA-CFF9-0765-2149-3B6BAD2461B5}|Payment.API\\Payment.API.csproj|solutionrelative:payment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31AE74B-3FDD-7AF6-E079-6F4CDD6C49D2}|Payment.Processor\\Payment.Processor.csproj|c:\\users\\vcvai\\source\\repos\\eventdrivenpayments\\payment.processor\\paymentconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31AE74B-3FDD-7AF6-E079-6F4CDD6C49D2}|Payment.Processor\\Payment.Processor.csproj|solutionrelative:payment.processor\\paymentconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF9F3D6-B08A-6A51-0DAD-69EDE0CDC216}|Notification.Service\\Notification.Service.csproj|c:\\users\\vcvai\\source\\repos\\eventdrivenpayments\\notification.service\\notificationconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF9F3D6-B08A-6A51-0DAD-69EDE0CDC216}|Notification.Service\\Notification.Service.csproj|solutionrelative:notification.service\\notificationconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF9F3D6-B08A-6A51-0DAD-69EDE0CDC216}|Notification.Service\\Notification.Service.csproj|c:\\users\\vcvai\\source\\repos\\eventdrivenpayments\\notification.service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7AF9F3D6-B08A-6A51-0DAD-69EDE0CDC216}|Notification.Service\\Notification.Service.csproj|solutionrelative:notification.service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF9F3D6-B08A-6A51-0DAD-69EDE0CDC216}|Notification.Service\\Notification.Service.csproj|c:\\users\\vcvai\\source\\repos\\eventdrivenpayments\\notification.service\\notification.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7AF9F3D6-B08A-6A51-0DAD-69EDE0CDC216}|Notification.Service\\Notification.Service.csproj|solutionrelative:notification.service\\notification.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C307AA-CFF9-0765-2149-3B6BAD2461B5}|Payment.API\\Payment.API.csproj|c:\\users\\vcvai\\source\\repos\\eventdrivenpayments\\payment.api\\payment.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{34C307AA-CFF9-0765-2149-3B6BAD2461B5}|Payment.API\\Payment.API.csproj|solutionrelative:payment.api\\payment.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31AE74B-3FDD-7AF6-E079-6F4CDD6C49D2}|Payment.Processor\\Payment.Processor.csproj|c:\\users\\vcvai\\source\\repos\\eventdrivenpayments\\payment.processor\\payment.processor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A31AE74B-3FDD-7AF6-E079-6F4CDD6C49D2}|Payment.Processor\\Payment.Processor.csproj|solutionrelative:payment.processor\\payment.processor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8354523E-FC6C-F9AC-4542-E62A8742BFE2}|Payment.Contracts\\Payment.Contracts.csproj|c:\\users\\vcvai\\source\\repos\\eventdrivenpayments\\payment.contracts\\payment.contracts.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8354523E-FC6C-F9AC-4542-E62A8742BFE2}|Payment.Contracts\\Payment.Contracts.csproj|solutionrelative:payment.contracts\\payment.contracts.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF9F3D6-B08A-6A51-0DAD-69EDE0CDC216}|Notification.Service\\Notification.Service.csproj|c:\\users\\vcvai\\source\\repos\\eventdrivenpayments\\notification.service\\notification.service.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7AF9F3D6-B08A-6A51-0DAD-69EDE0CDC216}|Notification.Service\\Notification.Service.csproj|solutionrelative:notification.service\\notification.service.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C307AA-CFF9-0765-2149-3B6BAD2461B5}|Payment.API\\Payment.API.csproj|c:\\users\\vcvai\\source\\repos\\eventdrivenpayments\\payment.api\\payment.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{34C307AA-CFF9-0765-2149-3B6BAD2461B5}|Payment.API\\Payment.API.csproj|solutionrelative:payment.api\\payment.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8354523E-FC6C-F9AC-4542-E62A8742BFE2}|Payment.Contracts\\Payment.Contracts.csproj|c:\\users\\vcvai\\source\\repos\\eventdrivenpayments\\payment.contracts\\paymentprocessed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8354523E-FC6C-F9AC-4542-E62A8742BFE2}|Payment.Contracts\\Payment.Contracts.csproj|solutionrelative:payment.contracts\\paymentprocessed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C307AA-CFF9-0765-2149-3B6BAD2461B5}|Payment.API\\Payment.API.csproj|c:\\users\\vcvai\\source\\repos\\eventdrivenpayments\\payment.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C307AA-CFF9-0765-2149-3B6BAD2461B5}|Payment.API\\Payment.API.csproj|solutionrelative:payment.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C307AA-CFF9-0765-2149-3B6BAD2461B5}|Payment.API\\Payment.API.csproj|c:\\users\\vcvai\\source\\repos\\eventdrivenpayments\\payment.api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C307AA-CFF9-0765-2149-3B6BAD2461B5}|Payment.API\\Payment.API.csproj|solutionrelative:payment.api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8354523E-FC6C-F9AC-4542-E62A8742BFE2}|Payment.Contracts\\Payment.Contracts.csproj|c:\\users\\vcvai\\source\\repos\\eventdrivenpayments\\payment.contracts\\paymentinitiated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8354523E-FC6C-F9AC-4542-E62A8742BFE2}|Payment.Contracts\\Payment.Contracts.csproj|solutionrelative:payment.contracts\\paymentinitiated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RabbitMqSettings.cs",
+              "DocumentMoniker": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\MessageQueue.Configuration\\RabbitMqSettings.cs",
+              "RelativeDocumentMoniker": "MessageQueue.Configuration\\RabbitMqSettings.cs",
+              "ToolTip": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\MessageQueue.Configuration\\RabbitMqSettings.cs",
+              "RelativeToolTip": "MessageQueue.Configuration\\RabbitMqSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:08:05.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Notification.Service\\Program.cs",
+              "RelativeDocumentMoniker": "Notification.Service\\Program.cs",
+              "ToolTip": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Notification.Service\\Program.cs*",
+              "RelativeToolTip": "Notification.Service\\Program.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwCEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:00:58.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\MessageQueue.Configuration\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "MessageQueue.Configuration\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\MessageQueue.Configuration\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "MessageQueue.Configuration\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:31:23.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Payment.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Payment.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Payment.API\\appsettings.json",
+              "RelativeToolTip": "Payment.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T09:52:48.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Notification.Service\\appsettings.json",
+              "RelativeDocumentMoniker": "Notification.Service\\appsettings.json",
+              "ToolTip": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Notification.Service\\appsettings.json",
+              "RelativeToolTip": "Notification.Service\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T13:19:35.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Payment.Processor\\appsettings.json",
+              "RelativeDocumentMoniker": "Payment.Processor\\appsettings.json",
+              "ToolTip": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Payment.Processor\\appsettings.json",
+              "RelativeToolTip": "Payment.Processor\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T13:18:25.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Payment.Processor\\Program.cs",
+              "RelativeDocumentMoniker": "Payment.Processor\\Program.cs",
+              "ToolTip": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Payment.Processor\\Program.cs",
+              "RelativeToolTip": "Payment.Processor\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwB4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:24:25.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotificationConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Notification.Service\\NotificationConsumer.cs",
+              "RelativeDocumentMoniker": "Notification.Service\\NotificationConsumer.cs",
+              "ToolTip": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Notification.Service\\NotificationConsumer.cs",
+              "RelativeToolTip": "Notification.Service\\NotificationConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:14:27.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Payment.Processor.csproj",
+              "DocumentMoniker": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Payment.Processor\\Payment.Processor.csproj",
+              "RelativeDocumentMoniker": "Payment.Processor\\Payment.Processor.csproj",
+              "ToolTip": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Payment.Processor\\Payment.Processor.csproj",
+              "RelativeToolTip": "Payment.Processor\\Payment.Processor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T11:52:16.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Notification.Service",
+              "DocumentMoniker": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Notification.Service\\Notification.Service.csproj",
+              "RelativeDocumentMoniker": "Notification.Service\\Notification.Service.csproj",
+              "ToolTip": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Notification.Service\\Notification.Service.csproj",
+              "RelativeToolTip": "Notification.Service\\Notification.Service.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T11:51:33.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Payment.API\\Program.cs",
+              "RelativeDocumentMoniker": "Payment.API\\Program.cs",
+              "ToolTip": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Payment.API\\Program.cs",
+              "RelativeToolTip": "Payment.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:51:17.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Payment.API.csproj",
+              "DocumentMoniker": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Payment.API\\Payment.API.csproj",
+              "RelativeDocumentMoniker": "Payment.API\\Payment.API.csproj",
+              "ToolTip": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Payment.API\\Payment.API.csproj",
+              "RelativeToolTip": "Payment.API\\Payment.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T11:48:37.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Payment.Contracts",
+              "DocumentMoniker": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Payment.Contracts\\Payment.Contracts.csproj",
+              "RelativeDocumentMoniker": "Payment.Contracts\\Payment.Contracts.csproj",
+              "ToolTip": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Payment.Contracts\\Payment.Contracts.csproj",
+              "RelativeToolTip": "Payment.Contracts\\Payment.Contracts.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T11:47:56.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Payment.API",
+              "DocumentMoniker": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Payment.API\\Payment.API.csproj",
+              "RelativeDocumentMoniker": "Payment.API\\Payment.API.csproj",
+              "ToolTip": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Payment.API\\Payment.API.csproj",
+              "RelativeToolTip": "Payment.API\\Payment.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T11:47:27.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Payment.Processor\\PaymentConsumer.cs",
+              "RelativeDocumentMoniker": "Payment.Processor\\PaymentConsumer.cs",
+              "ToolTip": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Payment.Processor\\PaymentConsumer.cs",
+              "RelativeToolTip": "Payment.Processor\\PaymentConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:32:29.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Notification.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Notification.Service\\Notification.Service.csproj",
+              "RelativeDocumentMoniker": "Notification.Service\\Notification.Service.csproj",
+              "ToolTip": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Notification.Service\\Notification.Service.csproj",
+              "RelativeToolTip": "Notification.Service\\Notification.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T13:05:32.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Payment.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Payment.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Payment.API\\WeatherForecast.cs",
+              "RelativeToolTip": "Payment.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:20:50.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Payment.API\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Payment.API\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Payment.API\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Payment.API\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwB4AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:54:50.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PaymentProcessed.cs",
+              "DocumentMoniker": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Payment.Contracts\\PaymentProcessed.cs",
+              "RelativeDocumentMoniker": "Payment.Contracts\\PaymentProcessed.cs",
+              "ToolTip": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Payment.Contracts\\PaymentProcessed.cs",
+              "RelativeToolTip": "Payment.Contracts\\PaymentProcessed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:43:18.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PaymentInitiated.cs",
+              "DocumentMoniker": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Payment.Contracts\\PaymentInitiated.cs",
+              "RelativeDocumentMoniker": "Payment.Contracts\\PaymentInitiated.cs",
+              "ToolTip": "C:\\Users\\vcvai\\source\\repos\\EventDrivenPayments\\Payment.Contracts\\PaymentInitiated.cs",
+              "RelativeToolTip": "Payment.Contracts\\PaymentInitiated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:42:34.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
